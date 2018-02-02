@@ -1,0 +1,7 @@
+{
+    "terminal.integrated.env.windows": {
+        "PATH": "C:\\Users\\Karina\\.platformio\\penv\\Scripts;C:\\Users\\Karina\\.platformio\\penv;C:\\ProgramData\\Oracle\\Java\\javapath;C:\\Program Files\\Common Files\\Microsoft Shared\\Windows Live;C:\\windows\\system32;C:\\windows;C:\\windows\\System32\\Wbem;C:\\windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files\\Broadcom\\Broadcom 802.11 Network Adapter\\Driver;C:\\Program Files\\Windows Live\\Shared;C:\\Program Files\\WIDCOMM\\Bluetooth Software\\;C:\\Program Files\\QuickTime\\QTSystem\\;C:\\Program Files\\Internet Explorer;C:\\Program Files\\Git\\cmd;;C:\\Program Files\\Microsoft VS Code\\bin;C:\\ProgramData\\Oracle\\Java\\javapath;C:\\Program Files\\Common Files\\Microsoft Shared\\Windows Live;C:\\windows\\system32;C:\\windows;C:\\windows\\System32\\Wbem;C:\\windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files\\Broadcom\\Broadcom 802.11 Network Adapter\\Driver;C:\\Program Files\\Windows Live\\Shared;C:\\Program Files\\WIDCOMM\\Bluetooth Software\\;C:\\Program Files\\QuickTime\\QTSystem\\;C:\\Program Files\\Internet Explorer;C:\\Program Files\\Git\\cmd;;C:\\Program Files\\Microsoft VS Code\\bin",
+        "PLATFORMIO_CALLER": "vscode"
+    },
+    "editor.tabSize": 3
+}
