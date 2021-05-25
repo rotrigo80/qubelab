@@ -1,2 +1,2 @@
-# navialab
-Navia Lab
+# qubelab
+Qube Lab
